@@ -11,3 +11,4 @@ C:\Users\justyna\Desktop\cw1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.AssemblyInfo.cs
 C:\Users\justyna\Desktop\cw1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.dll
 C:\Users\justyna\Desktop\cw1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.pdb
 C:\Users\justyna\Desktop\cw1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.genruntimeconfig.cache
+C:\Users\justyna\Desktop\cw1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.csproj.ResolveComReference.cache

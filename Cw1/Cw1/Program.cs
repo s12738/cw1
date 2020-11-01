@@ -10,8 +10,17 @@ namespace Cw1
     {
         public static async Task Main(string[] args)
         {
+            Console.WriteLine("Początek");
+            if (args.Length == 0)
+            {
+                throw new ArgumentNullException();
+
+            }
+
+
             var httpClient = new HttpClient();
-            var response = await httpClient.GetAsync("https://www.pja.edu.pl");
+            var response = await httpClient.GetAsync(args[0]);
+
             if (response.IsSuccessStatusCode)
             {
                 var html = await response.Content.ReadAsStringAsync();
