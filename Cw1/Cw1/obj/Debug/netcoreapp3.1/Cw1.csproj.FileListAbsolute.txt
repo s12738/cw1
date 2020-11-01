@@ -1,0 +1,13 @@
+C:\Users\justyna\Desktop\cw1\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.exe
+C:\Users\justyna\Desktop\cw1\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.deps.json
+C:\Users\justyna\Desktop\cw1\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.runtimeconfig.json
+C:\Users\justyna\Desktop\cw1\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.runtimeconfig.dev.json
+C:\Users\justyna\Desktop\cw1\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.dll
+C:\Users\justyna\Desktop\cw1\Cw1\Cw1\bin\Debug\netcoreapp3.1\Cw1.pdb
+C:\Users\justyna\Desktop\cw1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.csprojAssemblyReference.cache
+C:\Users\justyna\Desktop\cw1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.csproj.CoreCompileInputs.cache
+C:\Users\justyna\Desktop\cw1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.AssemblyInfoInputs.cache
+C:\Users\justyna\Desktop\cw1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.AssemblyInfo.cs
+C:\Users\justyna\Desktop\cw1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.dll
+C:\Users\justyna\Desktop\cw1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.pdb
+C:\Users\justyna\Desktop\cw1\Cw1\Cw1\obj\Debug\netcoreapp3.1\Cw1.genruntimeconfig.cache
