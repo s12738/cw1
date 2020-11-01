@@ -1,3 +1,3 @@
-Justyna Chrustna
-studia internetowe
+Justyna Chrustna<br/>
+studia internetowe<br/>
 s12738
